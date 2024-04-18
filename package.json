@@ -1,6 +1,6 @@
 {
   "name": "@anasahmed700/cli-todos",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A simple cli based todo app",
   "main": "index.js",
   "type": "module",
